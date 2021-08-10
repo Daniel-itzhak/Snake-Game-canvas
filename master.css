@@ -1,0 +1,18 @@
+body {
+    background:yellow;
+  }
+  
+  canvas {
+    border: solid 1px red;
+    text-align: center;
+  }
+
+h1{
+  font-size: 100px;
+  padding-left: 290px;
+}
+.score{
+  font-size: x-large;
+  padding-left: 350px;
+}
+  
